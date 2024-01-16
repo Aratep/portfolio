@@ -1,4 +1,4 @@
 # portfolio
 
 # my tg
-# ara_tepanyan
+# https://t.me/ara_tepanyan
