@@ -1,4 +1,4 @@
 # portfolio
 
-my tg
-ara_tepanyan
+# my tg
+# ara_tepanyan
